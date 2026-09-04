@@ -1,6 +1,0 @@
-UI Tree Dump — MeetstaatKopieren — Stap 237: OpenMenu(Eigenschappen > Meetstaten)
-Tijdstip: 2026-09-03 05:27:16
-Hoofdvenster: Ibis Calculeren voor Bouw 4.4.999.0
-────────────────────────────────────────────────────────────────────────────────
-[Window] Name="Ibis Calculeren voor Bouw 4.4.999.0" AutomationId="TradClient" Class="WindowsForms10.Window.8.app.0.1a5202b_r3_ad1" Enabled=True
-[?] <element niet bereikbaar>
