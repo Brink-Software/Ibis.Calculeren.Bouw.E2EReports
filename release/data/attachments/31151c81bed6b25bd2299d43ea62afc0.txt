@@ -1,0 +1,79 @@
+UI Tree Dump — StaartMetBegrotingposten — Stap 37: InDialoog(E2E Ibis Calculeren voor Bouw)
+Tijdstip: 2026-09-10 05:55:30
+Hoofdvenster: Ibis Calculeren voor Bouw 4.3.999.0
+────────────────────────────────────────────────────────────────────────────────
+[Window] Name="Ibis Calculeren voor Bouw 4.3.999.0" AutomationId="TradClient" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+  [?] <element niet bereikbaar>
+  [Window] Name="Algemene gegevens" AutomationId="BBegrotingAlgemeneGegevensDlg" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+    [Pane] Name="" AutomationId="m_ultraPanelInstellingen" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+      [Pane] Name="" AutomationId="" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+        [Pane] Name="" AutomationId="m_ultraPanelCategorieInstellingen" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+          [Pane] Name="" AutomationId="" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+        [Pane] Name="" AutomationId="m_ultraPanelCategorie" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+          [Pane] Name="" AutomationId="" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+    [Pane] Name="" AutomationId="m_ultraPanelButtons" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+      [Pane] Name="" AutomationId="" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+        [Button] Name="Sluiten" AutomationId="m_btnSluiten" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+    [?] <element niet bereikbaar>
+  [Tab] Name="" AutomationId="1245880" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+    [?] <element niet bereikbaar>
+    [?] <element niet bereikbaar>
+  [Pane] Name="" AutomationId="BucStatusbar" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+    [ProgressBar] Name="" AutomationId="_UltraProgressBar" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+    [StatusBar] Name="" AutomationId="m_StatusBar" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+  [Pane] Name="" AutomationId="983648" Class="WindowsForms10.MDICLIENT.app.0.10f7c6e_r3_ad1" Enabled=True
+    [Window] Name="Nieuw: Begroting - [Traditioneel/Begrotingsposten]" AutomationId="BTradBegrChild" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+      [Pane] Name="" AutomationId="BTucBegroting" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+        [Pane] Name="" AutomationId="BucTitel" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+          [Table] Name="BucGrid" AutomationId="BTucBegrotingGridNavigatie" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+        [Pane] Name="" AutomationId="m_Splitter" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+        [Pane] Name="" AutomationId="m_UcTree" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+          [Tree] Name="" AutomationId="m_TreeView" Class="WindowsForms10.SysTreeView32.app.0.10f7c6e_r3_ad1" Enabled=True
+  [Pane] Name="" AutomationId="_BClient_Toolbars_Dock_Area_Left" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+  [Pane] Name="" AutomationId="_BClient_Toolbars_Dock_Area_Right" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+  [Pane] Name="" AutomationId="_BClient_Toolbars_Dock_Area_Bottom" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+  [Pane] Name="" AutomationId="_BClient_Toolbars_Dock_Area_Top" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+    [?] <element niet bereikbaar>
+
+══ Modaal venster: Ibis Calculeren voor Bouw ══
+[?] <element niet bereikbaar>
+
+══ Modaal venster: Algemene gegevens ══
+[Window] Name="Algemene gegevens" AutomationId="BBegrotingAlgemeneGegevensDlg" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+  [Pane] Name="" AutomationId="m_ultraPanelInstellingen" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+    [Pane] Name="" AutomationId="" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+      [Pane] Name="" AutomationId="m_ultraPanelCategorieInstellingen" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+        [Pane] Name="" AutomationId="" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+          [Pane] Name="" AutomationId="BTucAlgGegRekenmethodiek" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+      [Pane] Name="" AutomationId="m_ultraPanelCategorie" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+        [Pane] Name="" AutomationId="" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+          [Tree] Name="" AutomationId="m_ultraTreeCategorie" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+          [Pane] Name="" AutomationId="m_ultraPanelTreeviewButtons" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+  [Pane] Name="" AutomationId="m_ultraPanelButtons" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+    [Pane] Name="" AutomationId="" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+      [Button] Name="Sluiten" AutomationId="m_btnSluiten" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+  [?] <element niet bereikbaar>
