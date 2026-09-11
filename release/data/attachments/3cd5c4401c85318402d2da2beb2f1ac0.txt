@@ -1,0 +1,46 @@
+UI Tree Dump — IbisCalculerenDbLocalDbConversie — Stap 14: ── Zachte verificatie: resultaat ──
+Tijdstip: 2026-09-11 05:20:02
+Hoofdvenster: Ibis Calculeren voor Bouw 4.3.999.0
+────────────────────────────────────────────────────────────────────────────────
+[Window] Name="Ibis Calculeren voor Bouw 4.3.999.0" AutomationId="TradClient" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+  [Menu] Name="Applicatie Menu" AutomationId="PopupControl" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+    [Pane] Name="" AutomationId="1246096" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+      [Pane] Name="" AutomationId="" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+        [Pane] Name="" AutomationId="BackStage" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+          [Pane] Name="" AutomationId="BucAchterMenuPanel" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+          [?] <element niet bereikbaar>
+          [?] <element niet bereikbaar>
+    [?] <element niet bereikbaar>
+  [Pane] Name="" AutomationId="BucStatusbar" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+    [ProgressBar] Name="" AutomationId="_UltraProgressBar" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+    [StatusBar] Name="" AutomationId="m_StatusBar" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+  [Pane] Name="" AutomationId="1048602" Class="WindowsForms10.MDICLIENT.app.0.10f7c6e_r3_ad1" Enabled=True
+  [Pane] Name="" AutomationId="_BClient_Toolbars_Dock_Area_Left" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+  [Pane] Name="" AutomationId="_BClient_Toolbars_Dock_Area_Right" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+  [Pane] Name="" AutomationId="_BClient_Toolbars_Dock_Area_Bottom" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+  [Pane] Name="" AutomationId="_BClient_Toolbars_Dock_Area_Top" Class="WindowsForms10.Window.8.app.0.10f7c6e_r3_ad1" Enabled=True
+    [?] <element niet bereikbaar>
