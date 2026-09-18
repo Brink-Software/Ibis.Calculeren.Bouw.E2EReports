@@ -1,0 +1,230 @@
+UI Tree Dump — BegrotingActualiseren — Stap 17: InDialoog(Begroting actualiseren)
+Tijdstip: 2026-09-18 03:25:55
+Hoofdvenster: Ibis Calculeren voor Bouw 4.4.999.0
+────────────────────────────────────────────────────────────────────────────────
+[Window] Name="Ibis Calculeren voor Bouw 4.4.999.0" AutomationId="TradClient" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+  [Window] Name="Begroting actualiseren" AutomationId="TradBegrActualiseerDlg" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+    [Pane] Name="" AutomationId="m_panelReferentieBegroting" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+      [Button] Name="Referentiebegroting" AutomationId="BtnRefBegr" Class="WindowsForms10.Button.app.0.2ce2184_r3_ad1" Enabled=True
+      [Edit] Name="Referentiebegroting:" AutomationId="TxtRefBgr" Class="WindowsForms10.Edit.app.0.2ce2184_r3_ad1" Enabled=True
+    [Button] Name="Annuleren" AutomationId="ButAnnuleren" Class="WindowsForms10.Button.app.0.2ce2184_r3_ad1" Enabled=True
+    [Button] Name="OK" AutomationId="ButOk" Class="WindowsForms10.Button.app.0.2ce2184_r3_ad1" Enabled=True
+    [Pane] Name="" AutomationId="m_panelMasker" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+      [Text] Name="en op:" AutomationId="label1" Class="WindowsForms10.Static.app.0.2ce2184_r3_ad1" Enabled=True
+      [ComboBox] Name="en op:" AutomationId="m_cbxVergelijkingscodeExtra" Class="WindowsForms10.ComboBox.app.0.2ce2184_r3_ad1" Enabled=True
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+      [CheckBox] Name="Negeer hoofd/kleine letters" AutomationId="ChkNegeer" Class="WindowsForms10.Button.app.0.2ce2184_r3_ad1" Enabled=True
+      [Text] Name="1234567890123456789012345678901234567890" AutomationId="label3" Class="WindowsForms10.Static.app.0.2ce2184_r3_ad1" Enabled=True
+      [Text] Name="Actualiseren op:" AutomationId="label2" Class="WindowsForms10.Static.app.0.2ce2184_r3_ad1" Enabled=True
+      [ComboBox] Name="Kolom:" AutomationId="m_cbxVergelijkingscode" Class="WindowsForms10.ComboBox.app.0.2ce2184_r3_ad1" Enabled=True
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+      [Edit] Name="1234567890123456789012345678901234567890" AutomationId="TxtMasker" Class="WindowsForms10.Edit.app.0.2ce2184_r3_ad1" Enabled=True
+      [Text] Name="Kolom:" AutomationId="LabCodekolom" Class="WindowsForms10.Static.app.0.2ce2184_r3_ad1" Enabled=True
+      [Text] Name="Masker:" AutomationId="LabMasker" Class="WindowsForms10.Static.app.0.2ce2184_r3_ad1" Enabled=True
+    [Pane] Name="" AutomationId="m_panelKolommen" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+      [CheckBox] Name="Bruto materiaalprijs leverancier bijwerken" AutomationId="m_cbxActualiseerLevBrutoPrijs" Class="WindowsForms10.Button.app.0.2ce2184_r3_ad1" Enabled=True
+      [CheckBox] Name="Hoeveelheden bijwerken" AutomationId="m_cbxActHoeveelheden" Class="WindowsForms10.Button.app.0.2ce2184_r3_ad1" Enabled=True
+      [List] Name="" AutomationId="m_clbActualiseerKolommen" Class="WindowsForms10.ListBox.app.0.2ce2184_r3_ad1" Enabled=True
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+        [?] <element niet bereikbaar>
+      [Text] Name="Actualiseren van:" AutomationId="label4" Class="WindowsForms10.Static.app.0.2ce2184_r3_ad1" Enabled=True
+      [Button] Name="Alle velden aanvinken" AutomationId="BtnAanUit" Class="WindowsForms10.Button.app.0.2ce2184_r3_ad1" Enabled=True
+      [CheckBox] Name="Bestaande stuurcode bijwerken" AutomationId="ChkStuurcode" Class="WindowsForms10.Button.app.0.2ce2184_r3_ad1" Enabled=True
+      [CheckBox] Name="Uitsluitend kostenposten" AutomationId="ChkKostenPost" Class="WindowsForms10.Button.app.0.2ce2184_r3_ad1" Enabled=True
+      [CheckBox] Name="Uitsluitend geselecteerde regels actualiseren" AutomationId="Chkuitslgese" Class="WindowsForms10.Button.app.0.2ce2184_r3_ad1" Enabled=False
+      [CheckBox] Name="Bestaand uurloon bijwerken" AutomationId="ChkUurloon" Class="WindowsForms10.Button.app.0.2ce2184_r3_ad1" Enabled=False
+    [?] <element niet bereikbaar>
+  [Window] Name="" AutomationId="" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+  [Window] Name="" AutomationId="" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+  [Window] Name="" AutomationId="" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+  [Window] Name="" AutomationId="" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+  [Tab] Name="" AutomationId="6488674" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+    [?] <element niet bereikbaar>
+    [?] <element niet bereikbaar>
+  [Pane] Name="" AutomationId="BucStatusbar" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+    [ProgressBar] Name="" AutomationId="_UltraProgressBar" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+    [StatusBar] Name="" AutomationId="m_StatusBar" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+  [Pane] Name="" AutomationId="12190242" Class="WindowsForms10.MDICLIENT.app.0.2ce2184_r3_ad1" Enabled=True
+    [Window] Name="Nieuw: Begroting - [Traditioneel]" AutomationId="BTradBegrChild" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+      [Pane] Name="" AutomationId="BTucBegroting" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+        [Pane] Name="" AutomationId="BucTitel" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+          [Table] Name="BucGrid" AutomationId="BTucBegrotingGridNavigatie" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+        [Pane] Name="" AutomationId="m_Splitter" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+        [Pane] Name="" AutomationId="m_UcTree" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+          [Tree] Name="" AutomationId="m_TreeView" Class="WindowsForms10.SysTreeView32.app.0.2ce2184_r3_ad1" Enabled=True
+  [Pane] Name="" AutomationId="_BClient_Toolbars_Dock_Area_Left" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+  [Pane] Name="" AutomationId="_BClient_Toolbars_Dock_Area_Right" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+  [Pane] Name="" AutomationId="_BClient_Toolbars_Dock_Area_Bottom" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+  [Pane] Name="" AutomationId="_BClient_Toolbars_Dock_Area_Top" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+    [?] <element niet bereikbaar>
+
+══ Modaal venster: Begroting actualiseren ══
+[Window] Name="Begroting actualiseren" AutomationId="TradBegrActualiseerDlg" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+  [Pane] Name="" AutomationId="m_panelReferentieBegroting" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+    [Button] Name="Referentiebegroting" AutomationId="BtnRefBegr" Class="WindowsForms10.Button.app.0.2ce2184_r3_ad1" Enabled=True
+    [Edit] Name="Referentiebegroting:" AutomationId="TxtRefBgr" Class="WindowsForms10.Edit.app.0.2ce2184_r3_ad1" Enabled=True
+  [Button] Name="Annuleren" AutomationId="ButAnnuleren" Class="WindowsForms10.Button.app.0.2ce2184_r3_ad1" Enabled=True
+  [Button] Name="OK" AutomationId="ButOk" Class="WindowsForms10.Button.app.0.2ce2184_r3_ad1" Enabled=True
+  [Pane] Name="" AutomationId="m_panelMasker" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+    [Text] Name="en op:" AutomationId="label1" Class="WindowsForms10.Static.app.0.2ce2184_r3_ad1" Enabled=True
+    [ComboBox] Name="en op:" AutomationId="m_cbxVergelijkingscodeExtra" Class="WindowsForms10.ComboBox.app.0.2ce2184_r3_ad1" Enabled=True
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+    [CheckBox] Name="Negeer hoofd/kleine letters" AutomationId="ChkNegeer" Class="WindowsForms10.Button.app.0.2ce2184_r3_ad1" Enabled=True
+    [Text] Name="1234567890123456789012345678901234567890" AutomationId="label3" Class="WindowsForms10.Static.app.0.2ce2184_r3_ad1" Enabled=True
+    [Text] Name="Actualiseren op:" AutomationId="label2" Class="WindowsForms10.Static.app.0.2ce2184_r3_ad1" Enabled=True
+    [ComboBox] Name="Kolom:" AutomationId="m_cbxVergelijkingscode" Class="WindowsForms10.ComboBox.app.0.2ce2184_r3_ad1" Enabled=True
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+    [Edit] Name="1234567890123456789012345678901234567890" AutomationId="TxtMasker" Class="WindowsForms10.Edit.app.0.2ce2184_r3_ad1" Enabled=True
+    [Text] Name="Kolom:" AutomationId="LabCodekolom" Class="WindowsForms10.Static.app.0.2ce2184_r3_ad1" Enabled=True
+    [Text] Name="Masker:" AutomationId="LabMasker" Class="WindowsForms10.Static.app.0.2ce2184_r3_ad1" Enabled=True
+  [Pane] Name="" AutomationId="m_panelKolommen" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+    [CheckBox] Name="Bruto materiaalprijs leverancier bijwerken" AutomationId="m_cbxActualiseerLevBrutoPrijs" Class="WindowsForms10.Button.app.0.2ce2184_r3_ad1" Enabled=True
+    [CheckBox] Name="Hoeveelheden bijwerken" AutomationId="m_cbxActHoeveelheden" Class="WindowsForms10.Button.app.0.2ce2184_r3_ad1" Enabled=True
+    [List] Name="" AutomationId="m_clbActualiseerKolommen" Class="WindowsForms10.ListBox.app.0.2ce2184_r3_ad1" Enabled=True
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+      [?] <element niet bereikbaar>
+    [Text] Name="Actualiseren van:" AutomationId="label4" Class="WindowsForms10.Static.app.0.2ce2184_r3_ad1" Enabled=True
+    [Button] Name="Alle velden aanvinken" AutomationId="BtnAanUit" Class="WindowsForms10.Button.app.0.2ce2184_r3_ad1" Enabled=True
+    [CheckBox] Name="Bestaande stuurcode bijwerken" AutomationId="ChkStuurcode" Class="WindowsForms10.Button.app.0.2ce2184_r3_ad1" Enabled=True
+    [CheckBox] Name="Uitsluitend kostenposten" AutomationId="ChkKostenPost" Class="WindowsForms10.Button.app.0.2ce2184_r3_ad1" Enabled=True
+    [CheckBox] Name="Uitsluitend geselecteerde regels actualiseren" AutomationId="Chkuitslgese" Class="WindowsForms10.Button.app.0.2ce2184_r3_ad1" Enabled=False
+    [CheckBox] Name="Bestaand uurloon bijwerken" AutomationId="ChkUurloon" Class="WindowsForms10.Button.app.0.2ce2184_r3_ad1" Enabled=False
+  [?] <element niet bereikbaar>
+
+══ Modaal venster:  ══
+[Window] Name="" AutomationId="" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+
+══ Modaal venster:  ══
+[Window] Name="" AutomationId="" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+
+══ Modaal venster:  ══
+[Window] Name="" AutomationId="" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
+
+══ Modaal venster:  ══
+[Window] Name="" AutomationId="" Class="WindowsForms10.Window.8.app.0.2ce2184_r3_ad1" Enabled=True
